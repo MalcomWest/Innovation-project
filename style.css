@@ -139,7 +139,7 @@ main {
 }
 
 .inovation > h1 {
-    font-size: clamp(3rem, 17vw, 9.8rem);
+    font-size: clamp(2rem, 15vw, 9.8rem);
     text-align: center;
     font-weight: 400;
 }
@@ -785,6 +785,7 @@ footer::before{
     padding: 25px;
     color: var(--color-white);
     letter-spacing: 2px;
+    text-align: center;
 }
 
 /* media quirues */
